@@ -61,6 +61,9 @@ Submit a ```ClaimProcess``` transaction:
   "claim": "resource:org.example.empty.claimContract#6"
 }
 ```
-As of now, HospitalVerification is on hold, will be incorporation ```recordskeeper``` to hold the health records and the verification will be done accordingly.
+As of now, HospitalVerification status is beng manually updated by insurer, will be incorporation ```recordskeeper``` to hold the health records and the verification will be done accordingly.
 
-[All about Hyperledger network creation.](https://hyperledger.github.io/composer/latest/installing/installing-index)
+Hyperledger Composer is an extensive, open development toolset and framework to make developing blockchain applications easier. so, started the application with the installation process and the whole process can be referred here (https://hyperledger.github.io/composer/latest/installing/installing-prereqs.html)
+
+The following steps will walk you through the required steps to build a Hyperledger Composer Blockchain
+[All about Hyperledger network creation.](https://hyperledger.github.io/composer/latest/tutorials/developer-tutorial.html)
