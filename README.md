@@ -19,7 +19,7 @@ Whenever a ```patient``` claims the amount, ```hospital``` comes into the pictur
 
 Application Flow:
   - Patient claims for the amount with the underlying asset ```claimGrant```.
-  - This reults Hospital to initiate the verification process.
+  - This results Hospital to initiate the verification process.
   - First transaction would be ```HospitalVerification``` followed by ```claimProcess```.
 
 To test this Business Network Definition in the hyperledger playgound test tab:
